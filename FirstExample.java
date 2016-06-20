@@ -11,5 +11,8 @@ public classExample{
 
 
 }
-
+   public double calculate()
+{
+         return 4500.00;
+}
 }
