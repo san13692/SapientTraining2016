@@ -12,4 +12,8 @@ public classExample{
 
 }
 
+       public String getDetails(){
+
+         return "Cloned and Update";
+    }
 }
