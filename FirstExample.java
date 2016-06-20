@@ -5,7 +5,7 @@ package com.training;
 public classExample{
 
 
-  public String getMessage(){
+  public final String getMessage(){
 
     return "Configuring Git";
 
